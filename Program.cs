@@ -7,7 +7,13 @@ namespace CSharpFundamentals
   {
     static void Main(string[] args)
     {
-      Variables.Run();
+      // Variables.Run();
+      // Strings.Run();
+      // Conditions.Run();
+      // Loops.Run();
+      // Lists.Run();
+      Dictionary.Run();
+
     }
   }
 }

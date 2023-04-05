@@ -12,8 +12,8 @@ namespace CSharpFundamentals
       // Conditions.Run();
       // Loops.Run();
       // Lists.Run();
-      Dictionary.Run();
-
+      // Dictionary.Run();
+      Nullability.Run();
     }
   }
 }
